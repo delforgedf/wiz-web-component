@@ -21,6 +21,7 @@
     "webpack-dev-server": "^3.8.1"
   },
   "dependencies": {
+    "cleave.js": "^1.6.0",
     "haunted": "^4.5.4",
     "lit-html": "^1.1.2"
   }
