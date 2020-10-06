@@ -1,0 +1,31 @@
+{
+    "containerElement": "wiz-id-footer",
+    "menuOpts": [
+      {
+        "id": 1,
+        "name": "Welcome",
+        "urlPath": "/welcome"
+      },
+      {
+        "id": 2,
+        "name": "Cashback",
+        "urlPath": "/cashback"
+      },
+      {
+        "id": 3,
+        "name": "Catalogo",
+        "urlPath": "/catalogo"
+      },
+      {
+        "id": 4,
+        "name": "Campanhas",
+        "urlPath": "/campanha"
+      },
+      {
+        "id": 5,
+        "name": "Missoes",
+        "urlPath": "/missoes"
+      }
+    ]
+  }
+  
